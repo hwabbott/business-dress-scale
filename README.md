@@ -23,7 +23,8 @@ Rank | Description | Dress Shirt | Tucked | Slacks | Jacket | &nbsp;&nbsp;  Tie 
 ### Example Usage
 
 
-```var dressScaleResult= getDressScaleIndex({
+```
+var dressScaleResult= getDressScaleIndex({
     shorts: false
     , tshirt: false
     , polo: false
