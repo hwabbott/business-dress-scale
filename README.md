@@ -18,3 +18,27 @@ Rank | Description | Dress Shirt | Tucked | Slacks | Jacket | &nbsp;&nbsp;  Tie 
 4.5 | Jacket + Tie |x|x|x|x|x
 5.0  | Matched Suit + Tie |x|x|x|x|x
 5.1  | Jacket + Swanky pocket squares etc. |x|x|x|x| 
+
+
+###Example Usage
+
+
+```
+var dressScaleResult= getDressScaleIndex({
+    shorts: false
+    , tshirt: false
+    , polo: false
+    , untuckedDressShirt: false
+    , tuckedDressShirt: true
+    , dressShoes: false
+    , jeans: false
+    , slacks: true
+    , tie:  false
+    , separateJacket: true
+    , suitPantsAndJacket: false
+    , dapperSwank: false
+});
+
+if(dressScaleResult.error) console.log(dressScaleResult.error);
+else console.log('Your business dress index is: ' + dressScaleIndex.index);
+```
