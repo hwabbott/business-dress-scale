@@ -20,11 +20,10 @@ Rank | Description | Dress Shirt | Tucked | Slacks | Jacket | &nbsp;&nbsp;  Tie 
 5.1  | Jacket + Swanky pocket squares etc. |x|x|x|x| 
 
 
-###Example Usage
+### Example Usage
 
 
-```
-var dressScaleResult= getDressScaleIndex({
+```var dressScaleResult= getDressScaleIndex({
     shorts: false
     , tshirt: false
     , polo: false
