@@ -3,7 +3,7 @@
 This is the business dress scale for your ready-reference.
 
 
-Rank | Description | Dress Shirt | Tucked | Dress Pants | Jacket | Tie
+Rank | Description | Dress Shirt | Tucked | Dress Pants | Jacket | &nbsp;&nbsp;  Tie &nbsp;&nbsp;  
 :---: | --- | :---: |:---: |:---: |:---: |:---: |
 -1.0 | Anything with shorts | | | | | 
 0.0 | T-Shirt | | | | | 
