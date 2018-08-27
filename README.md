@@ -23,7 +23,7 @@ Rank | Description | Dress Shirt | Tucked | Slacks | Jacket | &nbsp;&nbsp;  Tie 
 ### Example Usage
 
 
-```
+```javascript
 var dressScaleResult= getDressScaleIndex({
     shorts: false
     , tshirt: false
@@ -40,5 +40,5 @@ var dressScaleResult= getDressScaleIndex({
 });
 
 if(dressScaleResult.error) console.log(dressScaleResult.error);
-else console.log('Your business dress index is: ' + dressScaleIndex.index);
+else console.log('Your business dress index is: ' + dressScaleResult.index);
 ```
