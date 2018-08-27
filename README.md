@@ -11,10 +11,10 @@ Rank | Description | Dress Shirt | Tucked | Dress Pants | Jacket | &nbsp;&nbsp; 
 2.0 | Shirt (untucked) |x| | | | 
 2.5 | Shirt (untucked) + dress shoes |x| | | | 
 2.8 | Shirt (tucked) + jeans |x|x| | | 
-3.0 | Shirt (tucked) |x|x|x| | 
-3.9 | Polo + Jacket | | | |x| 
+3.0 | Shirt (tucked) + slacks |x|x|x| | 
+3.9 | Jacket dressed down  | | | |x| 
 4.0 | Shirt + Jacket |x|x|x|x| 
 4.1 | Shirt + Tie |x|x|x| |x
-4.5 | Mismatched Jacket + Tie |x|x|x|x|x
+4.5 | Jacket + Tie |x|x|x|x|x
 5.0  | Matched Suit + Tie |x|x|x|x|x
 5.1  | Jacket + Swanky pocket squares etc. |x|x|x|x| 
