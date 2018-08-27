@@ -14,4 +14,4 @@ Rank | Description
 4.1 | Shirt + Tie
 4.5 | Shirt + Tie + Mismatched Jacket
 5.0  | Shirt + Tie + Matched Suit Jacket
-5.1  | Jacket + Add swanky pocket squares that you only get away with if you are in marketing
+5.1  | Jacket + Add swanky pocket squares etc. that you only get away with if you are in marketing
