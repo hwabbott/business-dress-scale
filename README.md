@@ -1,4 +1,4 @@
-# business-dress-scale
+# Business Dress Scale
 
 This is the business dress scale for your ready-reference.
 
