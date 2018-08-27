@@ -8,8 +8,9 @@ Rank | Description
 -1.0 | Anything with shorts
 0.0 | T-Shirt
 1.0 | Polo
-2.0 | Shirt, untucked
-3.0 | Shirt, tucked
+2.0 | Shirt (untucked)
+2.5 | Shirt (untucked) + dress shoes
+3.0 | Shirt (tucked)
 4.0 | Shirt + Jacket
 4.1 | Shirt + Tie
 4.5 | Shirt + Tie + Mismatched Jacket
