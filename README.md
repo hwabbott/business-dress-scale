@@ -10,6 +10,7 @@ Rank | Description
 1.0 | Polo
 2.0 | Shirt (untucked)
 2.5 | Shirt (untucked) + dress shoes
+2.8 | Shirt (tucked) + jeans
 3.0 | Shirt (tucked)
 3.9 | Polo + Jacket
 4.0 | Shirt + Jacket
