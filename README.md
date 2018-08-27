@@ -21,11 +21,13 @@ Rank | Description | Dress Shirt | Tucked | Slacks | Jacket | &nbsp;&nbsp;  Tie 
 
 
 
+
 ### Calculation of Business Dress scale
 
 To calculate the rank / index on the Business Dress Scale, use the included JavaScript function.
 
-The above table just gives a general summary of the scale and does not represent all inputs nor does it display all of the logic built-into the function.
+The above table just gives a general summary of the scale and does not represent all inputs nor does it display all of the logic built into the function.
+
 
 
 
